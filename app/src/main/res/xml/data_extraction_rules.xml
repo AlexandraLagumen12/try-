@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+   Sample data extraction rules file; uncomment and customize as necessary.
+   See https://developer.android.com/about/versions/12/backup-restore#xml-changes
+   for details.
+-->
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- TODO: Use <include> and <exclude> to control what is backed up.
+
+        TODO: Arrange each main function by color.
+        TODO: Bottom Navigation Bar (HOME, TASK, HABITS, EXPENSE)
+        TODO: NAVIGATION DRAWER (HOME, DUCK PROFILE, REPORTS, NOTIFICATIONS, LOG OUT)
+
+
+        TODO: TASKS TODAY
+        TODO: NAVIGATION DRAWER (DONE)
+        TODO: NAVIGATION BAR (DONE)
+        TODO: LOG IN/SIGN UP WITH FIREBASE (DONE)
+
+
+        TODO: TASKS TOMORROW
+        TODO: MAIN MENU UI ()
+        TODO: SPLASH MOTION (LOADING SCREEN) - HINDI PA SURE
+        TODO:
+        <include .../>
+        <exclude .../>
+        -->
+    </cloud-backup>
+    <!--
+    <device-transfer>
+        <include .../>
+        <exclude .../>
+    </device-transfer>
+    -->
+</data-extraction-rules>

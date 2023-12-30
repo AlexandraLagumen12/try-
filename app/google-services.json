@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "470662294805",
+    "firebase_url": "https://ducktivetwo-default-rtdb.firebaseio.com",
+    "project_id": "ducktivetwo",
+    "storage_bucket": "ducktivetwo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470662294805:android:0519b3b536dbc66c624d1c",
+        "android_client_info": {
+          "package_name": "com.example.ducktivetwo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVC7_vlzKCOLmBggesr5ytV2VwwLWkN88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
